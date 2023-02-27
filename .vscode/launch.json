@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LowArrayApp",
+            "request": "launch",
+            "mainClass": "LowArrayApp",
+            "projectName": "Algorithm_2d10ab55"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayApp",
+            "request": "launch",
+            "mainClass": "ArrayApp",
+            "projectName": "Algorithm_2d10ab55"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankApp",
+            "request": "launch",
+            "mainClass": "BankApp",
+            "projectName": "Algorithm_2d10ab55"
+        }
+    ]
+}
